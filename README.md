@@ -3,11 +3,12 @@ Challenge do Oracle Next Education, para exercitar lógica de programação com 
 
 Um projeto simples que conforme o usuário escreve nomes e dá submit neles(um de cada vez)
 Esses nomes são incluídos em uma lista 
-![challengeOracle1](https://github.com/user-attachments/assets/05873713-c061-479b-be88-5d96b946aef0)
+![image](https://github.com/user-attachments/assets/7b194b97-e829-4a17-9037-26122262e231)
+
 
 Quando o usuário finalizar o processo clica em sortear, e o programa sorteia um dos elementos da lista.
 
-![image](https://github.com/user-attachments/assets/c58087a1-240f-4f7e-962c-e2bb3e04f35f)
+![image](https://github.com/user-attachments/assets/12ae9bb8-7b53-43b0-8c97-48e823ec8ae0)
 
 
 O programa verifica se o valor inserido não está vazio ou se não contém números,
